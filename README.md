@@ -1,2 +1,2 @@
-# Rock-Paper-scissors
-Human vs Computer
+# Rock Paper scissors 
+
